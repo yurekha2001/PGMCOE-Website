@@ -1,0 +1,2533 @@
+{
+"profiles":
+{
+    "cse":{
+  "1":
+  {
+      "Rollno": "1",
+      "Name": "Adhav Sanket Satish",
+      "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 35000
+  },
+  "2":{
+      "Rollno": "2",
+      "Name": "Alhat Srushti Subhash",
+      "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 33000
+  },
+  "3":{
+      "Rollno": "3",
+      "Name": "Angadi Pradyaumna Prabhu",
+      "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 28000
+  },
+  "4":{
+      "Rollno": "4",
+      "Name": "Awhale Harshada Rajendra",
+      "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 25000
+  },
+  "5":{
+      "Rollno": "5",
+      "Name": "Babar Rushikesh Shashikant",
+      "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 30000
+  },
+  "6":{
+      "Rollno": "6",
+      "Name": "Badgujar Ankita Vasudeo",
+      "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 32000
+  },
+  "7":{
+      "Rollno": "7",
+      "Name": "Bankar Vikas Dattatray",
+      "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 31000
+  },
+  "8":{
+      "Rollno": "8",
+      "Name": "Baramade Shubham Angadrao",
+      "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 35000
+  },
+  "9":{
+      "Rollno": "9",
+      "Name": "Bhilare Poonam Bapurao",
+      "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 37000
+  },
+  "10":{
+      "Rollno": "10",
+      "Name": "Bhojkar Pratik Padmakar",
+      "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 49000
+  },
+  "11":{
+      "Rollno": "11",
+      "Name": "Borse Radhika Ajinath",
+      "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 39000
+  },
+  "12":{
+      "Rollno": "12",
+      "Name": "Chandurkar Abhinav Ajay",
+      "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 24000
+  },
+  "13":{
+      "Rollno": "13",
+      "Name": "Chaudhari Aishwarya R.",
+      "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 56000
+  },
+  "14":{
+      "Rollno": "14",
+      "Name": "Chaudhari Rutuja Ashok",
+      "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 45000
+  },
+  "15":{
+      "Rollno": "15",
+      "Name": "Chavan Abhishek Sunil",
+      "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 34000
+  },
+  "16":{
+      "Rollno": "16",
+      "Name": "Chawhan Aayush Shambhu",
+      "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 35000
+  },
+  "17":{
+      "Rollno": "17",
+      "Name": "Chinchore Nikhil Govind",
+      "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 45000
+  },
+  "18":{
+      "Rollno": "18",
+      "Name": "Chipade Mayur Satish",
+      "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 25000
+  },
+  "19":{
+      "Rollno": "19",
+      "Name": "Chopade Vijay Asaram",
+      "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 22000
+  },
+  "20":{
+      "Rollno": "20",
+      "Name": "Chopane Pratik Mahesh",
+      "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 24000
+  },
+  "21":{
+      "Rollno": "21",
+      "Name": "Dalavi Mandeep Mahadev",
+      "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 30000
+  },
+  "22":{
+      "Rollno": "22",
+      "Name": "Deshmukh Shreya Rajendra",
+      "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 35000
+  },
+  "23":{
+      "Rollno": "23",
+      "Name": "Dixit TejasVinaykant",
+      "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 45000
+  },
+  "24":{
+      "Rollno": "24",
+      "Name": "DolasSejal Mahesh",
+      "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 34000
+  },
+  "25":{
+      "Rollno": "25",
+      "Name": "Gaikwad RushikeshPopat",
+      "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 25000
+  },
+  "26":{
+      "Rollno": "26",
+      "Name": "Gaikwad Shrushti Ashok",
+      "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 20000
+  },
+  "27":{
+      "Rollno": "27",
+      "Name": "Garkal Nilesh Bhagwat",
+      "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 30000
+  },
+  "28":{
+      "Rollno": "28",
+      "Name": "Jadhav Nilesh Namdev",
+      "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 25000
+  },
+  "29":{
+      "Rollno": "29",
+      "Name": "Jadhav Rushikeshlahu",
+      "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 20000
+  },
+  "30":{
+      "Rollno": "30",
+      "Name": "Jadhav Sandip Tanaji",
+      "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 15000
+  },
+  "31":{
+      "Rollno": "31",
+      "Name": "Jadhav Sayali Uttam",
+      "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 45000
+  },
+  "32":{
+      "Rollno": "32",
+      "Name": "Jagtap Venkatesh Babasaheb",
+      "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 43000
+  },
+  "33":{
+      "Rollno": "33",
+      "Name": "Jena Purnima Kedarnath",
+      "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 34000
+  },
+  "34":{
+      "Rollno": "34",
+      "Name": "Kalshetty Santosh Sidram",
+      "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 35000
+  },
+  "35":{
+      "Rollno": "35",
+      "Name": "Kamble Dhiraj Shesherao",
+      "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 30000
+  },
+  "36":{
+      "Rollno": "36",
+      "Name": "Kamble Tanuja Mohan",
+      "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 34000
+  },
+  "37":{
+      "Rollno": "37",
+      "Name": "Kapse Shraddha Vishnu",
+      "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 24000
+  },
+  "38":{
+      "Rollno": "38",
+      "Name": "Karad Pooja Murhari",
+      "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 34000
+  },
+  "39":{
+      "Rollno": "39",
+      "Name": "Karande Manisha Bharat",
+      "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 44000
+  },
+  "40":{
+      "Rollno": "40",
+      "Name": "Kharade Sanket Gajanan",
+      "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 25000
+  },
+  "41":{
+      "Rollno": "41",
+      "Name": "Kumar Vineet",
+      "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 24000
+  },
+  "42":{
+      "Rollno": "42",
+      "Name": "Ladke Shraddha Ravishankar",
+      "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 20000
+  },
+  "43":{
+      "Rollno": "43",
+      "Name": "Londhe Arpita Dattatray",
+      "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 30000
+  },
+  "44":{
+      "Rollno": "44",
+      "Name": "Maske Umesh Sahebrao",
+      "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 24000
+  },
+  "45":{
+      "Rollno": "45",
+      "Name": "More Abhay Appaji",
+      "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 25000
+  },
+  "46":{
+      "Rollno": "46",
+      "Name": "More Deepti Deepak",
+      "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 27000
+  },
+  "47":{
+      "Rollno": "47",
+      "Name": "More Samrudhhi Uttam",
+      "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 28000
+  },
+  "48":{
+      "Rollno": "48",
+      "Name": "Nelwade Swapnil Dhanraj",
+      "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 29000
+  },
+  "49":{
+      "Rollno": "49",
+      "Name": "Pal Akash Rajbali",
+      "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 30000
+  },
+  "50":{
+      "Rollno": "50",
+      "Name": "Palve Akanksha Dnyaneshwar",
+      "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 31000
+  },
+  "51":{
+      "Rollno": "51",
+      "Name": "Panchal Omkar Gorakhanath",
+      "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 32000
+  },
+  "52":{
+      "Rollno": "52",
+      "Name": "Patil Shweta Bajirao",
+      "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 25000
+  },
+  "53":{
+      "Rollno": "53",
+      "Name": "Pawar Prasad Chandrakant",
+      "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 45000
+  },
+  "54":{
+      "Rollno": "54",
+      "Name": "PawarRushiBaliram",
+      "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 43000
+  },
+  "55":{
+      "Rollno": "55",
+      "Name": "PawaraRutujaNatvarsing",
+      "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 34000
+  },
+  "56":{
+      "Rollno": "56",
+      "Name": "PotbhareTakshak Virbhadra",
+      "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 25000
+  },
+  "57":{
+      "Rollno": "57",
+      "Name": "Potghan Abhishek Bajirav",
+      "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 24000
+  },
+  "58":{
+      "Rollno": "58",
+      "Name": "Rajput Vaibhav Suryakant",
+      "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 20000
+  },
+  "59":{
+      "Rollno": "59",
+      "Name": "Rane Shweta Nilkanth",
+      "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 22000
+  },
+  "60":{
+      "Rollno": "60",
+      "Name": "Sagar Sandip Lahukumar",
+      "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 24000
+  },
+  "61":{
+      "Rollno": "61",
+      "Name": "Sahastrabudhe Abhishek Kehsav",
+      "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 26000
+  },
+  "62":{
+      "Rollno": "62",
+      "Name": "Salunke Swapnil Santosh",
+      "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 28000
+  },
+  "63":{
+      "Rollno": "63",
+      "Name": "Salve Onkar Lalit",
+      "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 30000
+  },
+  "64":{
+      "Rollno": "64",
+      "Name": "Sawant Shivani Sunil",
+      "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 32000
+  },
+  "65":{
+      "Rollno": "65",
+      "Name": "Shaikh Aatik Salim",
+      "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 34000
+  },
+  "66":{
+      "Rollno": "66",
+      "Name": "Shaikh Juned Ramjan",
+      "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 36000
+  },
+  "67":{
+      "Rollno": "67",
+      "Name": "ShelkeHarshadaHanumant",
+      "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 38000
+  },
+  "68":{
+      "Rollno": "68",
+      "Name": "Shinde Somnath Shatrughan",
+      "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 40000
+  },
+  "69":{
+      "Rollno": "69",
+      "Name": "Singh Satyam D.",
+      "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 43000
+  },
+  "70":{
+      "Rollno": "70",
+      "Name": "Solunke Pradip Bhagwan",
+      "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 34000
+  },
+  "71":{
+      "Rollno": "71",
+      "Name": "Sonawane Abhijeet Zumbarrao",
+      "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 25000
+  },
+  "72":{
+      "Rollno": "72",
+      "Name": "Sonawane Gauri Ashok",
+      "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 24000
+  },
+  "73":{
+      "Rollno": "73",
+      "Name": "Sonawane Yash Sunil",
+      "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 23000
+  },
+  "74":{
+      "Rollno": "74",
+      "Name": "Sonje Anish Pradeep",
+      "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 20000
+  },
+  "75":{
+      "Rollno": "75",
+      "Name": "Temgire Tushar Ganesh",
+      "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 24000
+  },
+  "76":{
+      "Rollno": "76",
+      "Name": "Thawkar Madhur Gopal",
+      "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 35000
+  },
+  "77":{
+      "Rollno": "77",
+      "Name": "Thorat Sarthak Kishor",
+      "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 35000
+  },
+  "78":{
+      "Rollno": "78",
+      "Name": "Ubale Jayashree Harichandra",
+      "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 25000
+  },
+  "79":{
+      "Rollno": "79",
+      "Name": "Vaykar Sahil Vinayak",
+      "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 29000
+  },
+  "80":{
+      "Rollno": "80",
+      "Name": "Yadav Gaurav Vinayak",
+      "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 30000
+  },
+  "81":{
+      "Rollno": "81",
+      "Name": "Yurekha Matha",
+      "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 35000
+  }
+ },
+
+    "IT":{
+    "1":
+    {
+        "Rollno": 1,
+    "Name": "Alim Shraddha Santosh",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 25000
+    },
+    "2":{   
+        "Rollno": 2,
+    "Name": "Aryan Vivek",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 35000
+    },
+    "3":{
+        "Rollno": 3,
+    "Name": "Aware Pramod Babasaheb",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 45000
+    },
+    "4":{
+        "Rollno": 4,
+    "Name": "Bade Ashwini Bhaginath",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 15000
+    },
+    "5":{
+        "Rollno": 5,
+    "Name": "Bandichode Prajakta Revansidha",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 25000
+    },
+    "6":{
+        "Rollno": 6,
+    "Name": "Barde Pankaj Ashok",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 30000
+    },
+    "7":{
+        "Rollno": 7,
+    "Name": "Baraskar Pallavi Pravin",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 28000
+    },
+    "8":{
+        "Rollno": 8,
+    "Name": "Belaki Sharanu Mallesh",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 34000
+    },
+    "9":{
+        "Rollno": 9,
+    "Name": "Bhong Sanket Vinod",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 20000
+    },
+    "10":{
+        "Rollno": 10,
+    "Name": "Bhosale Mahesh Manohar",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 30000
+    },
+    "11":{
+        "Rollno": 11,
+    "Name": "Bhosale Shivshankar Kalyan",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 35000
+    },
+    "12":{
+        "Rollno": 12,
+    "Name": "Bhosale  Avadhut Vijay",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 36000
+    },
+    "13":{
+        "Rollno": 13,
+    "Name": "Bochare Mayuri Vijay",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 34000
+    },
+    "14":{
+        "Rollno": 14,
+    "Name": "Biradar Mahendra Dhanraj",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 35000
+    },
+    "15":{
+        "Rollno": 15,
+    "Name": "Chaudari Lina Sudam",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 34000
+    },
+    "16":{
+        "Rollno": 16,
+    "Name": "Dandage Durgesh Kailas",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 25000
+    },
+    "17":{
+        "Rollno": 17,
+    "Name": "Deshmukh Ashutosh Ashok",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 34000
+    },
+    "18":{
+        "Rollno": 18,
+    "Name": "Desale Harshavardhan Satyendra",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 24000
+    },
+    "19":{
+        "Rollno": 19,
+    "Name": "Dhere Ajit Arjun",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 20000
+    },
+    "20":{
+        "Rollno": 20,
+    "Name": "Dudka Shruti Ajay",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 15000
+    },
+    "21":{
+        "Rollno": 21,
+    "Name": "Dhire Shubam Datta",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 25000
+    },
+    "22":{
+        "Rollno": 22,
+    "Name": "Gaikwad Sayali Raosaheb",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 26000
+    },
+    "23":{
+        "Rollno": 23,
+    "Name": "Gaikwad Aishwarya Satyendra",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 27000
+    },
+    "24":{
+        "Rollno": 24,
+    "Name": "Gajare Sanket Shantaram",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 28000
+    },
+    "25":{
+        "Rollno": 25,
+    "Name": "Garje Shraddha Rangnath",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 30000
+    },
+    "26":{
+        "Rollno": 26,
+    "Name": "Ghadge Aniruddha Dilip",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 29000
+    },
+    "27":{
+        "Rollno": 27,
+    "Name": "Girme Pruthviraj Hemant",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 31000
+    },
+    "28":{
+        "Rollno": 28,
+    "Name": "Jadhav Sarika Santosh",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 32000
+    },
+    "29":{
+        "Rollno": 29,
+    "Name": "Jagade Pavankumar  Bhimrao",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 35000
+    },
+    "30":{
+        "Rollno": 30,
+    "Name": "Jamdar Tejas Maloji",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 33000
+    },
+    "31":{
+        "Rollno": 31,
+    "Name": "Jawale Sakshi Vikas",
+    "total": 260000,
+        "first": 0,
+        "fourth":65000,
+        "second": 0,
+        "third": 34000
+    },
+    "32":{
+        "Rollno": 32,
+    "Name": "Jedgule Sanket Sukhdev",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 36000
+    },
+    "33":{
+        "Rollno": 33,
+    "Name": "Jogdand Subodh Raneet",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 36000
+    },
+    "34":{
+        "Rollno": 34,
+    "Name": "Kadam Prajwali Arun",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 37000
+    },
+    "35":{
+        "Rollno": 35,
+    "Name": "Kakade Sagar Prakash",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 37000
+    },
+    "36":{
+        "Rollno": 36,
+    "Name": "Kale Aniket Prakash",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 38000
+    },
+    "37":{
+        "Rollno": 37,
+    "Name": "Kanni Banashankari Satalingappa",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 39000
+    },
+    "38":{
+        "Rollno": 38,
+    "Name": "Kharat Kanchan Kailas",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 40000
+    },
+    "39":{
+        "Rollno": 39,
+    "Name": "Kohkrale Komal Arun",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 20000
+    },
+    "40":{
+        "Rollno": 40,
+    "Name": "Kolekar Rushikesh Babasaheb",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 21000
+    },
+    "41":{
+        "Rollno": 41,
+    "Name": "Korde Sayali",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 22000
+    },
+    "42":{
+        "Rollno": 42,
+    "Name": "Kshirsagar Pournima Sharanbasappa",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 23000
+    },
+    "43":{
+        "Rollno": 43,
+    "Name": "Lokhande Arati Pandharinath",
+    "total": 260000,
+    "first": 0,
+    "fourth": 65000,
+    "second": 0,
+    "third": 24000
+    },
+    "44":{
+        "Rollno": 44,
+    "Name": "Londhe Pranit Mhatarba",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 25000
+    },
+    "45":{
+        "Rollno": 45,
+    "Name": "Mahadik Dhiraj Ganpat",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 26000
+    },
+    "46":{
+        "Rollno": 46,
+    "Name": "Mali Rahul Sambhaji",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 27000
+    },
+    "47":{
+        "Rollno": 47,
+    "Name": "Mali Saurabh Chhatrasal",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 35000
+    },
+    "48":{
+        "Rollno": 48,
+    "Name": "Mane Amar Jaysing",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 28000
+    },
+    "49":{
+        "Rollno": 49,
+    "Name": "Mhaske Pratik Rajesh",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 29000
+    },
+    "50":{
+        "Rollno": 50,
+    "Name": "Mitkar Sambhaji Venkat",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 31000
+    },
+    "51":{
+        "Rollno": 51,
+    "Name": "Padawal Supriya Sanjay",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 30000
+    },
+    "52":{
+        "Rollno": 52,
+    "Name": "Patil Mangesh Dadarao",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 32000
+    },
+    "53":{
+        "Rollno": 53,
+    "Name": "Paithane Rani Ashok",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 33000
+    },
+    "54":{
+        "Rollno": 54,
+    "Name": "Pathade Jyoti Shreeniwas",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 25000
+    },
+    "55":{
+        "Rollno": 55,
+    "Name": "Pawar Shreyash Sanjay",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 27000
+    },
+    "56":{
+        "Rollno": 56,
+    "Name": "Pawar Vishal Dilip",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 25000
+    },
+    "57":{
+        "Rollno": 57,
+    "Name": "Pajgade Bhargavi Sharad",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 20000
+    },
+    "58":{
+        "Rollno": 58,
+    "Name": "Pejgude Shraddha Ramesh",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 21000
+    },
+    "59":{
+        "Rollno": 59,
+    "Name": "Pol Vibhushan Gopal",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 23000
+    },
+    "60":{
+        "Rollno": 60,
+    "Name": "Prasannakumar Pranay",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 35000
+    },
+    "61":{
+        "Rollno": 61,
+    "Name": "Rathod Pavan Anil",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 34000
+    },
+    "62":{
+        "Rollno": 62,
+    "Name": "Roy Shubmkumar Birendra",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 27000
+    },
+    "63":{
+        "Rollno": 63,
+    "Name": "Salunke Tanmay Nanaji",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 20000
+    },
+    "64":{
+        "Rollno": 64,
+    "Name": "Salve Shailesh Prabhakar",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 26000
+    },
+    "65":{
+        "Rollno": 65,
+    "Name": "Shah Geetika Ashwin",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 20000
+    },
+    "66":{
+        "Rollno": 66,
+    "Name": "Sharma Ranjeetkumar Satyendra",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 24000
+    },
+    "67":{
+        "Rollno": 67,
+    "Name": "Shelke Adesh Bhanudas",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 25000
+    },
+    "68":{
+        "Rollno": 68,
+    "Name": "Shinde Sahil Satyaprem",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 35000
+    },
+    "69":{
+        "Rollno": 69,
+    "Name": "Shinde Ashwjeet Vijaykumar",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 37000
+    },
+    "70":{
+        "Rollno": 70,
+    "Name": "Shinde Akshay Rajaram",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 26000
+    },
+    "71":{
+        "Rollno": 71,
+    "Name": "Shirude Sakshi Satish",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 23000
+    },
+    "72":{
+        "Rollno": 72,
+    "Name": "Shriram Akshay Dattu",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 24000
+    },
+    "73":{
+        "Rollno": 73,
+    "Name": "Sonar Shubham Pradeep",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 25000
+    },
+    "74":{
+        "Rollno": 74,
+    "Name": "Sonawane Prafful Nilesh",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 23000
+    },
+    "75":{
+        "Rollno": 75,
+    "Name": "Todankar Ashitosh Prashant",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 25000
+    },
+    "76":{
+        "Rollno": 76,
+    "Name": "Walke Shivraj Jagannath",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 35000
+    },
+    "77":{
+        "Rollno": 77,
+    "Name": "Yadav Nidhi Omprakash",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 25000
+    },
+    "78":{
+        "Rollno": 78,
+    "Name": "Zalte Akshay Shrimat",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 27000
+   }
+},
+
+       "ENTC":{
+    "1":
+    {
+        "Rollno": 1,
+    "Name": "Arthi Shruti",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 10000
+    },
+    "2":{   
+        "Rollno": 2,
+    "Name": "Aryan Vignesh",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 11000
+    },
+    "3":{
+        "Rollno": 3,
+    "Name": "Alhat Suresh",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 12000
+    },
+    "4":{
+        "Rollno": 4,
+    "Name": "Bhojakar Sayali",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 13000
+    },
+    "5":{
+        "Rollno": 5,
+    "Name": "Bilare Shrusti",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 14000
+    },
+    "6":{
+        "Rollno": 6,
+    "Name": "Barde Pawan",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 15000
+    },
+    "7":{
+        "Rollno": 7,
+    "Name": "Baraskar Pravin",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 16000
+    },
+    "8":{
+        "Rollno": 8,
+    "Name": "Bilare Mallesh",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 17000
+    },
+    "9":{
+        "Rollno": 9,
+    "Name": "Bhojakar Arpita",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 18000
+    },
+    "10":{
+        "Rollno": 10,
+    "Name": "Bhosale Manohar",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 19000
+    },
+    "11":{
+        "Rollno": 11,
+    "Name": "Bhosale Kalyan",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 20000
+    },
+    "12":{
+        "Rollno": 12,
+    "Name": "Bhosale Vijay",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 21000
+    },
+    "13":{
+        "Rollno": 13,
+    "Name": "Bochare Mayuri",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 22000
+    },
+    "14":{
+        "Rollno": 14,
+    "Name": "Biradar Dhanraj",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 23000
+    },
+    "15":{
+        "Rollno": 15,
+    "Name": "Chaudari Lina ",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 24000
+    },
+    "16":{
+        "Rollno": 16,
+    "Name": "Dudka Durgesh",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 25000
+    },
+    "17":{
+        "Rollno": 17,
+    "Name": "Deshmukh Ashutosh",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 25000
+    },
+    "18":{
+        "Rollno": 18,
+    "Name": "Dalavi Satyendra",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 26000
+    },
+    "19":{
+        "Rollno": 19,
+    "Name": "Dixit Arjun",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 27000
+    },
+    "20":{
+        "Rollno": 20,
+    "Name": "Dudka Ajay",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 28000
+    },
+    "21":{
+        "Rollno": 21,
+    "Name": "Dhire Nilesh",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 29000
+    },
+    "22":{
+        "Rollno": 22,
+    "Name": "Gaikwad Shrushti",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 30000
+    },
+    "23":{
+        "Rollno": 23,
+    "Name": "Garkal Aishwarya",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 31000
+    },
+    "24":{
+        "Rollno": 24,
+    "Name": "Gajare Vishnu",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 32000
+    },
+    "25":{
+        "Rollno": 25,
+    "Name": "Gaikwad Ajay Uttam",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 33000
+    },
+    "26":{
+        "Rollno": 26,
+    "Name": "Ghadge Dilip",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 34000
+    },
+    "27":{
+        "Rollno": 27,
+    "Name": "Girme Pruthviraj Hemant",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 35000
+    },
+    "28":{
+        "Rollno": 28,
+    "Name": "Jadhav Nilesh",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 36000
+    },
+    "29":{
+        "Rollno": 29,
+    "Name": "Jivan Arahunashi",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 37000
+    },
+    "30":{
+        "Rollno": 30,
+    "Name": "Junaid Nazki",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 38000
+    },
+    "31":{
+        "Rollno": 31,
+    "Name": "Juhi Kukreja",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 39000
+    },
+    "32":{
+        "Rollno": 32,
+    "Name": "Jega Jegatheesh",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 40000
+    },
+    "33":{
+        "Rollno": 33,
+    "Name": "Jogendra Vaghela",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 41000
+    },
+    "34":{
+        "Rollno": 34,
+    "Name": "Kirti Gunjal",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 42000
+    },
+    "35":{
+        "Rollno": 35,
+    "Name": "Karan Kamble",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 43000
+    },
+    "36":{
+        "Rollno": 36,
+    "Name": "Kadavale Kisan",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 10000
+    },
+    "37":{
+        "Rollno": 37,
+    "Name": "Kaif Ansari",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 11000
+    },
+    "38":{
+        "Rollno": 38,
+    "Name": "Kharat Kailas",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 12000
+    },
+    "39":{
+        "Rollno": 39,
+    "Name": "Kohkrale Komal",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 13000
+    },
+    "40":{
+        "Rollno": 40,
+    "Name": "Kolekar Rushikesh",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 14000
+    },
+    "41":{
+        "Rollno": 41,
+    "Name": "Korde Sayali",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 15000
+    },
+    "42":{
+        "Rollno": 42,
+    "Name": "Komal Oswal",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 16000
+    },
+    "43":{
+        "Rollno": 43,
+    "Name": "Lokhande Arati",
+    "total": 260000,
+    "first": 0,
+    "fourth": 65000,
+    "second": 0,
+    "third": 17000
+    },
+    "44":{
+        "Rollno": 44,
+    "Name": "Londhe Arpita",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 18000
+    },
+    "45":{
+        "Rollno": 45,
+    "Name": "Manohar Nanajkar",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 19000
+    },
+    "46":{
+        "Rollno": 46,
+    "Name": "Mali Rahul",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 20000
+    },
+    "47":{
+        "Rollno": 47,
+    "Name": "Mahesh Lambe",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 21000
+    },
+    "48":{
+        "Rollno": 48,
+    "Name": "Mane Jaysing",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 22000
+    },
+    "49":{
+        "Rollno": 49,
+    "Name": "Mihir Mandviya",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 23000
+    },
+    "50":{
+        "Rollno": 50,
+    "Name": "Mihir Gautam",
+    "total": 260000,
+        "first": 0,
+        "fourth": 65000,
+        "second": 0,
+        "third": 25000
+    }
+    },
+    "Mech":{
+        "1":
+        {
+            "Rollno": 1,
+        "Name": "Abhinav Gyan",
+        "total": 260000,
+            "first": 0,
+            "fourth": 65000,
+            "second": 0,
+            "third": 10000
+        },
+        "2":{   
+            "Rollno": 2,
+        "Name": "Akhil Niyogi",
+        "total": 260000,
+            "first": 0,
+            "fourth": 65000,
+            "second": 0,
+            "third": 11000
+        },
+        "3":{
+            "Rollno": 3,
+        "Name": "Ajay Shree",
+        "total": 260000,
+            "first": 0,
+            "fourth": 65000,
+            "second": 0,
+            "third": 12000
+        },
+        "4":{
+            "Rollno": 4,
+        "Name": "Bhojakar Sneha",
+        "total": 260000,
+            "first": 0,
+            "fourth": 65000,
+            "second": 0,
+            "third": 13000
+        },
+        "5":{
+            "Rollno": 5,
+        "Name": "Bhilare Varsha",
+        "total": 260000,
+            "first": 0,
+            "fourth": 65000,
+            "second": 0,
+            "third": 14000
+        },
+        "6":{
+            "Rollno": 6,
+        "Name": "Bandhe Pavani",
+        "total": 260000,
+            "first": 0,
+            "fourth": 65000,
+            "second": 0,
+            "third": 15000
+        },
+        "7":{
+            "Rollno": 7,
+        "Name": "Baraskar Pravin",
+        "total": 260000,
+            "first": 0,
+            "fourth": 65000,
+            "second": 0,
+            "third": 16000
+        },
+        "8":{
+            "Rollno": 8,
+        "Name": "Bilare Mallesh",
+        "total": 260000,
+            "first": 0,
+            "fourth": 65000,
+            "second": 0,
+            "third": 17000
+        },
+        "9":{
+            "Rollno": 9,
+        "Name": "B Shresta",
+        "total": 260000,
+            "first": 0,
+            "fourth": 65000,
+            "second": 0,
+            "third": 18000
+        },
+        "10":{
+            "Rollno": 10,
+        "Name": "Bhojkar Nilesh",
+        "total": 260000,
+            "first": 0,
+            "fourth": 65000,
+            "second": 0,
+            "third": 19000
+        },
+        "11":{
+            "Rollno": 11,
+        "Name": "Bhosale Kalyan",
+        "total": 260000,
+            "first": 0,
+            "fourth": 65000,
+            "second": 0,
+            "third": 20000
+        },
+        "12":{
+            "Rollno": 12,
+        "Name": "Bhosale Vijay",
+        "total": 260000,
+            "first": 0,
+            "fourth": 65000,
+            "second": 0,
+            "third": 21000
+        },
+        "13":{
+            "Rollno": 13,
+        "Name": "Bochare Mayuri",
+        "total": 260000,
+            "first": 0,
+            "fourth": 65000,
+            "second": 0,
+            "third": 22000
+        },
+        "14":{
+            "Rollno": 14,
+        "Name": "Biradar Dhanraj",
+        "total": 260000,
+            "first": 0,
+            "fourth": 65000,
+            "second": 0,
+            "third": 23000
+        },
+        "15":{
+            "Rollno": 15,
+        "Name": "Chaudari Lina ",
+        "total": 260000,
+            "first": 0,
+            "fourth": 65000,
+            "second": 0,
+            "third": 24000
+        },
+        "16":{
+            "Rollno": 16,
+        "Name": "Dudka Durgesh",
+        "total": 260000,
+            "first": 0,
+            "fourth": 65000,
+            "second": 0,
+            "third": 25000
+        },
+        "17":{
+            "Rollno": 17,
+        "Name": "Deshmukh Ashutosh",
+        "total": 260000,
+            "first": 0,
+            "fourth": 65000,
+            "second": 0,
+            "third": 25000
+        },
+        "18":{
+            "Rollno": 18,
+        "Name": "Dalavi Satyendra",
+        "total": 260000,
+            "first": 0,
+            "fourth": 65000,
+            "second": 0,
+            "third": 26000
+        },
+        "19":{
+            "Rollno": 19,
+        "Name": "Dixit Arjun",
+        "total": 260000,
+            "first": 0,
+            "fourth": 65000,
+            "second": 0,
+            "third": 27000
+        },
+        "20":{
+            "Rollno": 20,
+        "Name": "Dudka Shruti",
+        "total": 260000,
+            "first": 0,
+            "fourth": 65000,
+            "second": 0,
+            "third": 28000
+        },
+        "21":{
+            "Rollno": 21,
+        "Name": "Dhire Nilesh",
+        "total": 260000,
+            "first": 0,
+            "fourth": 65000,
+            "second": 0,
+            "third": 29000
+        },
+        "22":{
+            "Rollno": 22,
+        "Name": "Gaikwad Shrushti",
+        "total": 260000,
+            "first": 0,
+            "fourth": 65000,
+            "second": 0,
+            "third": 30000
+        },
+        "23":{
+            "Rollno": 23,
+        "Name": "Garkal Aishwarya",
+        "total": 260000,
+            "first": 0,
+            "fourth": 65000,
+            "second": 0,
+            "third": 31000
+        },
+        "24":{
+            "Rollno": 24,
+        "Name": "Gajare Vishnu",
+        "total": 260000,
+            "first": 0,
+            "fourth": 65000,
+            "second": 0,
+            "third": 32000
+        },
+        "25":{
+            "Rollno": 25,
+        "Name": "Gaikwad Ajay Uttam",
+        "total": 260000,
+            "first": 0,
+            "fourth": 65000,
+            "second": 0,
+            "third": 33000
+        },
+        "26":{
+            "Rollno": 26,
+        "Name": "Ghadge Dilip",
+        "total": 260000,
+            "first": 0,
+            "fourth": 65000,
+            "second": 0,
+            "third": 34000
+        },
+        "27":{
+            "Rollno": 27,
+        "Name": "Girme Pruthviraj Hemant",
+        "total": 260000,
+            "first": 0,
+            "fourth": 65000,
+            "second": 0,
+            "third": 35000
+        },
+        "28":{
+            "Rollno": 28,
+        "Name": "Jadhav Nilesh",
+        "total": 260000,
+            "first": 0,
+            "fourth": 65000,
+            "second": 0,
+            "third": 36000
+        },
+        "29":{
+            "Rollno": 29,
+        "Name": "Jivan Arahunashi",
+        "total": 260000,
+            "first": 0,
+            "fourth": 65000,
+            "second": 0,
+            "third": 37000
+        },
+        "30":{
+            "Rollno": 30,
+        "Name": "Junaid Nazki",
+        "total": 260000,
+            "first": 0,
+            "fourth": 65000,
+            "second": 0,
+            "third": 38000
+        },
+        "31":{
+            "Rollno": 31,
+        "Name": "Juhi Kukreja",
+        "total": 260000,
+            "first": 0,
+            "fourth": 65000,
+            "second": 0,
+            "third": 39000
+        },
+        "32":{
+            "Rollno": 32,
+        "Name": "Jega Jegatheesh",
+        "total": 260000,
+            "first": 0,
+            "fourth": 65000,
+            "second": 0,
+            "third": 40000
+        },
+        "33":{
+            "Rollno": 33,
+        "Name": "Jogendra Vaghela",
+        "total": 260000,
+            "first": 0,
+            "fourth": 65000,
+            "second": 0,
+            "third": 41000
+        },
+        "34":{
+            "Rollno": 34,
+        "Name": "Kirti Gunjal",
+        "total": 260000,
+            "first": 0,
+            "fourth": 65000,
+            "second": 0,
+            "third": 42000
+        },
+        "35":{
+            "Rollno": 35,
+        "Name": "Karan Kamble",
+        "total": 260000,
+            "first": 0,
+            "fourth": 65000,
+            "second": 0,
+            "third": 43000
+        },
+        "36":{
+            "Rollno": 36,
+        "Name": "Kadavale Kisan",
+        "total": 260000,
+            "first": 0,
+            "fourth": 65000,
+            "second": 0,
+            "third": 10000
+        },
+        "37":{
+            "Rollno": 37,
+        "Name": "Kaif Ansari",
+        "total": 260000,
+            "first": 0,
+            "fourth": 65000,
+            "second": 0,
+            "third": 11000
+        },
+        "38":{
+            "Rollno": 38,
+        "Name": "Kharat Kailas",
+        "total": 260000,
+            "first": 0,
+            "fourth": 65000,
+            "second": 0,
+            "third": 12000
+        },
+        "39":{
+            "Rollno": 39,
+        "Name": "Kohkrale Komal",
+        "total": 260000,
+            "first": 0,
+            "fourth": 65000,
+            "second": 0,
+            "third": 13000
+        },
+        "40":{
+            "Rollno": 40,
+        "Name": "Komal Nagar",
+        "total": 260000,
+            "first": 0,
+            "fourth": 65000,
+            "second": 0,
+            "third": 14000
+        }
+        },
+        "Civil":{
+            "1":
+            {
+                "Rollno": 1,
+            "Name": "Alim Shraddha Santosh",
+            "total": 260000,
+                "first": 0,
+                "fourth": 65000,
+                "second": 0,
+                "third": 25000
+            },
+            "2":{   
+                "Rollno": 2,
+            "Name": "Aryan Vivek",
+            "total": 260000,
+                "first": 0,
+                "fourth": 65000,
+                "second": 0,
+                "third": 35000
+            },
+            "3":{
+                "Rollno": 3,
+            "Name": "Aware Pramod Babasaheb",
+            "total": 260000,
+                "first": 0,
+                "fourth": 65000,
+                "second": 0,
+                "third": 45000
+            },
+            "4":{
+                "Rollno": 4,
+            "Name": "Bade Ashwini Bhaginath",
+            "total": 260000,
+                "first": 0,
+                "fourth": 65000,
+                "second": 0,
+                "third": 15000
+            },
+            "5":{
+                "Rollno": 5,
+            "Name": "Bandichode Prajakta Revansidha",
+            "total": 260000,
+                "first": 0,
+                "fourth": 65000,
+                "second": 0,
+                "third": 25000
+            },
+            "6":{
+                "Rollno": 6,
+            "Name": "Barde Pankaj Ashok",
+            "total": 260000,
+                "first": 0,
+                "fourth": 65000,
+                "second": 0,
+                "third": 30000
+            },
+            "7":{
+                "Rollno": 7,
+            "Name": "Baraskar Pallavi Pravin",
+            "total": 260000,
+                "first": 0,
+                "fourth": 65000,
+                "second": 0,
+                "third": 28000
+            },
+            "8":{
+                "Rollno": 8,
+            "Name": "Belaki Sharanu Mallesh",
+            "total": 260000,
+                "first": 0,
+                "fourth": 65000,
+                "second": 0,
+                "third": 34000
+            },
+            "9":{
+                "Rollno": 9,
+            "Name": "Bhong Sanket Vinod",
+            "total": 260000,
+                "first": 0,
+                "fourth": 65000,
+                "second": 0,
+                "third": 20000
+            },
+            "10":{
+                "Rollno": 10,
+            "Name": "Bhosale Mahesh Manohar",
+            "total": 260000,
+                "first": 0,
+                "fourth": 65000,
+                "second": 0,
+                "third": 30000
+            },
+            "11":{
+                "Rollno": 11,
+            "Name": "Bhosale Shivshankar Kalyan",
+            "total": 260000,
+                "first": 0,
+                "fourth": 65000,
+                "second": 0,
+                "third": 35000
+            },
+            "12":{
+                "Rollno": 12,
+            "Name": "Bhosale  Avadhut Vijay",
+            "total": 260000,
+                "first": 0,
+                "fourth": 65000,
+                "second": 0,
+                "third": 36000
+            },
+            "13":{
+                "Rollno": 13,
+            "Name": "Bochare Mayuri Vijay",
+            "total": 260000,
+                "first": 0,
+                "fourth": 65000,
+                "second": 0,
+                "third": 34000
+            },
+            "14":{
+                "Rollno": 14,
+            "Name": "Biradar Mahendra Dhanraj",
+            "total": 260000,
+                "first": 0,
+                "fourth": 65000,
+                "second": 0,
+                "third": 35000
+            },
+            "15":{
+                "Rollno": 15,
+            "Name": "Chaudari Lina Sudam",
+            "total": 260000,
+                "first": 0,
+                "fourth": 65000,
+                "second": 0,
+                "third": 34000
+            },
+            "16":{
+                "Rollno": 16,
+            "Name": "Dandage Durgesh Kailas",
+            "total": 260000,
+                "first": 0,
+                "fourth": 65000,
+                "second": 0,
+                "third": 25000
+            },
+            "17":{
+                "Rollno": 17,
+            "Name": "Deshmukh Ashutosh Ashok",
+            "total": 260000,
+                "first": 0,
+                "fourth": 65000,
+                "second": 0,
+                "third": 34000
+            },
+            "18":{
+                "Rollno": 18,
+            "Name": "Desale Harshavardhan Satyendra",
+            "total": 260000,
+                "first": 0,
+                "fourth": 65000,
+                "second": 0,
+                "third": 24000
+            },
+            "19":{
+                "Rollno": 19,
+            "Name": "Dhere Ajit Arjun",
+            "total": 260000,
+                "first": 0,
+                "fourth": 65000,
+                "second": 0,
+                "third": 20000
+            },
+            "20":{
+                "Rollno": 20,
+            "Name": "Dudka Shruti Ajay",
+            "total": 260000,
+                "first": 0,
+                "fourth": 65000,
+                "second": 0,
+                "third": 15000
+            },
+            "21":{
+                "Rollno": 21,
+            "Name": "Dhire Shubam Datta",
+            "total": 260000,
+                "first": 0,
+                "fourth": 65000,
+                "second": 0,
+                "third": 25000
+            },
+            "22":{
+                "Rollno": 22,
+            "Name": "Gaikwad Sayali Raosaheb",
+            "total": 260000,
+                "first": 0,
+                "fourth": 65000,
+                "second": 0,
+                "third": 26000
+            },
+            "23":{
+                "Rollno": 23,
+            "Name": "Gaikwad Aishwarya Satyendra",
+            "total": 260000,
+                "first": 0,
+                "fourth": 65000,
+                "second": 0,
+                "third": 27000
+            },
+            "24":{
+                "Rollno": 24,
+            "Name": "Gajare Sanket Shantaram",
+            "total": 260000,
+                "first": 0,
+                "fourth": 65000,
+                "second": 0,
+                "third": 28000
+            },
+            "25":{
+                "Rollno": 25,
+            "Name": "Garje Shraddha Rangnath",
+            "total": 260000,
+                "first": 0,
+                "fourth": 65000,
+                "second": 0,
+                "third": 30000
+            },
+            "26":{
+                "Rollno": 26,
+            "Name": "Ghadge Aniruddha Dilip",
+            "total": 260000,
+                "first": 0,
+                "fourth": 65000,
+                "second": 0,
+                "third": 29000
+            },
+            "27":{
+                "Rollno": 27,
+            "Name": "Girme Pruthviraj Hemant",
+            "total": 260000,
+                "first": 0,
+                "fourth": 65000,
+                "second": 0,
+                "third": 31000
+            },
+            "28":{
+                "Rollno": 28,
+            "Name": "Jadhav Sarika Santosh",
+            "total": 260000,
+                "first": 0,
+                "fourth": 65000,
+                "second": 0,
+                "third": 32000
+            },
+            "29":{
+                "Rollno": 29,
+            "Name": "Jagade Pavankumar  Bhimrao",
+            "total": 260000,
+                "first": 0,
+                "fourth": 65000,
+                "second": 0,
+                "third": 35000
+            },
+            "30":{
+                "Rollno": 30,
+            "Name": "Jamdar Tejas Maloji",
+            "total": 260000,
+                "first": 0,
+                "fourth": 65000,
+                "second": 0,
+                "third": 33000
+            }
+          }
+        } 
+      }
